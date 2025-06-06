@@ -33,8 +33,8 @@ We developed an end-to-end pipeline that includes:
 
 | File                         | Description |
 |------------------------------|-------------|
-| `Vacas Vaqueras - Entrega Final.pdf` | Full thesis report in Spanish. Includes methodology, implementation, results, and business case. |
-| `Presentación final - Vacas Vaqueras.pdf` | Final presentation slides with key findings, visuals, and performance metrics. |
+| `Stand Count - Entrega Final.pdf` | Full thesis report in Spanish. Includes methodology, implementation, results, and business case. |
+| `Presentación final - VV.pdf` | Final presentation slides with key findings, visuals, and performance metrics. |
 
 > 📌 *Note: All content is in Spanish. An English summary is available upon request.*
 
